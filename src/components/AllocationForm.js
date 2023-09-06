@@ -78,4 +78,4 @@ const AllocationForm = (props) => {
     );
 };
 
-export default AllocationForm;
+export default AllocationForm; 
